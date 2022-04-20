@@ -50,3 +50,6 @@ git restore --staged secrets.txt
 hello world
 good morning
 goo morning
+hello world 
+hello river
+hello mountain
