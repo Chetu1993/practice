@@ -1,0 +1,52 @@
+GIT and GITHUB course
+-------------------------
+
+git and github basics
+---------------------
+introduction
+git basics
+git commands
+git pull and push 
+git requests
+git stashing
+git rebasing
+interactive rebasing
+git interactive rebasing
+git merging
+git custom alias
+git tags
+git reflogs
+
+git commandlines
+----------------------
+git config --global.user "username"
+git config --global.email "schetankumar123@gmail.com"
+git init
+git status
+git git.txt
+git status
+git commit -m "myfile"
+
+git log --abbrev -online
+git log --oneline
+git commit amend
+git log
+git branch -D bugfix
+git diff 
+git diff head
+git diff --staged
+git diff --cached 
+git diff master..bugfix
+git diff commit1..commit2
+git stash
+git stash pop
+git diff HEAD
+git checkout sd4454f
+git checkout HEAD~8
+git restore dog.txt
+git restore cat.txt
+git restore cat.txt dog.txt
+git restore --staged secrets.txt
+hello world
+good morning
+goo morning
